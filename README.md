@@ -5,7 +5,7 @@
 <ul>
         <li><a href="https://instagram.com">Instagram</a></li>
         <li><a href="https://google.com">Google</a></li>
-        <li><a href="https://x">X</a></li>
+        <li><a href="https://x.com">X</a></li>
 </ul>
 </body>
 </html>
